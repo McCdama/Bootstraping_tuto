@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Basic Bootstrap Template</title>
+    <!-- Bootstrap CSS file -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+   
+<div class="container border my-3 py-3">
+    <div class="row align-items-start">
+        <div class="col">Column one</div>
+        <div class="col">Column two</div>
+        <div class="col">Column three</div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col">Column one</div>
+        <div class="col">Column two</div>
+        <div class="col">Column three</div>
+    </div>
+    <div class="row align-items-end">
+        <div class="col">Column one</div>
+        <div class="col">Column two</div>
+        <div class="col">Column three</div>
+    </div>
+</div>
+
+
+<div class="container border my-3 py-3">
+    <div class="row">
+        <div class="col align-self-start">Column one</div>
+        <div class="col align-self-center">Column two</div>
+        <div class="col align-self-end">Column three</div>
+    </div>
+</div>
+
+
+<!-- Horizontal -->
+
+<div class="container border my-3 py-3">
+    <div class="row justify-content-start">
+        <div class="col-4">Column one</div>
+        <div class="col-4">Column two</div>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-4">Column one</div>
+        <div class="col-4">Column two</div>
+    </div>
+    <div class="row justify-content-end">
+        <div class="col-4">Column one</div>
+        <div class="col-4">Column two</div>
+    </div>
+</div>
+
+
+
+
+<div class="container border my-3 py-3">
+    <div class="row justify-content-around">
+        <div class="col-4">Column one</div>
+        <div class="col-4">Column two</div>
+    </div>
+    <div class="row justify-content-between">
+        <div class="col-4">Column one</div>
+        <div class="col-4">Column two</div>
+    </div>
+</div>
+
+
+<!-- Reordering -->
+<div class="container border my-3 py-3">
+    <div class="row">
+        <div class="col order-last">First, but ordered at last</div>
+        <div class="col">Second, but unordered</div>
+        <div class="col order-first">Last, but ordered at first</div>
+    </div>
+</div>
+
+<div class="container border my-3 py-3">
+    <div class="row">
+        <div class="col order-4">First, but ordered at last</div>
+        <div class="col">Second, but ordered at first</div>
+        <div class="col order-1">Last, but ordered at second</div>
+    </div>
+</div>
+
+<!-- Offsetting the Grid Columns -->
+
+<div class="container border my-3 py-3">
+    <div class="row">
+        <div class="col-sm-4">First 4</div>
+        <div class="col-sm-8">Second 8</div>
+    </div>
+    <div class="row">        
+        <div class="col-sm-8 offset-sm-4">Column with 4 columns offset</div>
+    </div>
+</div>
+
+
+<div class="container border my-3 py-3">
+    <div class="row">
+        <div class="col-md-4">First 4</div>
+        <div class="col-md-4 ml-auto">Second 4, Offset this column to right || ml-auto</div>
+    </div>
+    <div class="row">
+        <div class="col-auto mr-auto">mr-auto</div>
+        <div class="col-auto">Move this column away from previous column || col-auto</div>
+    </div>
+</div>
+
+
+<!-- Compact Columns -->
+<div class="row no-gutters border my-3 py-3">
+    <div class="col-4">Column one</div>
+    <div class="col-4">Column two</div>
+    <div class="col-4">Column three</div>
+</div>
+
+
+<!-- Breaking Columns to a New Line -->
+
+<div class="container border my-3 py-3">
+    <!-- Break columns on all devices -->
+    <div class="row">
+        <div class="col">.col</div>
+        <div class="col">.col</div>
+        <!--  inserting a <div> with .w-100 class where we want the columns to break to a new line -->
+        <div class="w-100"></div>
+        <div class="col">.col</div>
+        <div class="col">.col</div>
+    </div>
+    <!-- Break columns on all devices except extra large devices -->
+    <div class="row">
+        <div class="col">.col</div>
+        <div class="col">.col</div>
+        <!-- Make these breaks responsive by combining the .w-100 class with responsive display utility classes. -->
+        <div class="w-100 d-xl-none"></div>
+        <div class="col">.col</div>
+        <div class="col">.col</div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- JS files: jQuery first, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
