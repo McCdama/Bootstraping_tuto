@@ -1,0 +1,329 @@
+Aug 30 13:34:59 10.71.56.0 u105008242 Connection from 10.71.56.0 port 57816 on 82.165.88.58 port 22
+Aug 30 13:35:00 10.71.56.0 u105008242 Accepted password for u105008242 from 10.71.56.0 port 57816 ssh2
+Aug 30 13:35:00 10.71.56.0 u105008242 Starting session: subsystem 'sftp' for u105008242 from 10.71.56.0 port 57816 id 0
+Aug 30 13:35:00 10.71.56.0 u105008242 session opened for local user u105008242 from [10.71.56.0]
+Aug 30 13:35:12 10.71.56.0 u105008242 sent status No such file
+Aug 30 13:35:12 10.71.56.0 u105008242 Connection from 10.71.56.0 port 17678 on 82.165.88.58 port 22
+Aug 30 13:35:12 10.71.56.0 u105008242 Accepted password for u105008242 from 10.71.56.0 port 17678 ssh2
+Aug 30 13:35:12 10.71.56.0 u105008242 Connection from 10.71.56.0 port 17692 on 82.165.88.58 port 22
+Aug 30 13:35:12 10.71.56.0 u105008242 Accepted password for u105008242 from 10.71.56.0 port 17692 ssh2
+Aug 30 13:35:13 10.71.56.0 u105008242 Starting session: subsystem 'sftp' for u105008242 from 10.71.56.0 port 17678 id 0
+Aug 30 13:35:13 10.71.56.0 u105008242 session opened for local user u105008242 from [10.71.56.0]
+Aug 30 13:35:13 10.71.56.0 u105008242 Starting session: subsystem 'sftp' for u105008242 from 10.71.56.0 port 17692 id 0
+Aug 30 13:35:13 10.71.56.0 u105008242 session opened for local user u105008242 from [10.71.56.0]
+Aug 30 13:35:13 10.71.56.0 u105008242 open "/logs/access.log.29.gz" flags READ mode 0666
+Aug 30 13:35:13 10.71.56.0 u105008242 open "/logs/sftp.log" flags READ mode 0666
+Aug 30 13:35:13 10.71.56.0 u105008242 close "/logs/access.log.29.gz" bytes read 3468 written 0
+Aug 30 13:35:13 10.71.56.0 u105008242 [10.71.56.0|get|0|3468|0|0|0|2f6c6f67732f6163636573732e6c6f672e32392e677a|]
+Aug 30 13:35:13 10.71.56.0 u105008242 close "/logs/sftp.log" bytes read 1493 written 0
+Aug 30 13:35:13 10.71.56.0 u105008242 [10.71.56.0|get|0|1493|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Aug 30 13:35:13 10.71.56.0 u105008242 open "/logs/access.log.35.1" flags READ mode 0666
+Aug 30 13:35:13 10.71.56.0 u105008242 open "/logs/access.log.33.gz" flags READ mode 0666
+Aug 30 13:35:13 10.71.56.0 u105008242 close "/logs/access.log.35.1" bytes read 4106 written 0
+Aug 30 13:35:13 10.71.56.0 u105008242 [10.71.56.0|get|0|4106|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e31|]
+Aug 30 13:35:13 10.71.56.0 u105008242 close "/logs/access.log.33.gz" bytes read 3182 written 0
+Aug 30 13:35:13 10.71.56.0 u105008242 [10.71.56.0|get|0|3182|0|0|0|2f6c6f67732f6163636573732e6c6f672e33332e677a|]
+Aug 30 13:35:13 10.71.56.0 u105008242 open "/logs/access.log.27.gz" flags READ mode 0666
+Aug 30 13:35:13 10.71.56.0 u105008242 open "/logs/access.log.31.gz" flags READ mode 0666
+Aug 30 13:35:13 10.71.56.0 u105008242 close "/logs/access.log.27.gz" bytes read 3822 written 0
+Aug 30 13:35:13 10.71.56.0 u105008242 [10.71.56.0|get|0|3822|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e677a|]
+Aug 30 13:35:13 10.71.56.0 u105008242 close "/logs/access.log.31.gz" bytes read 2999 written 0
+Aug 30 13:35:13 10.71.56.0 u105008242 [10.71.56.0|get|0|2999|0|0|0|2f6c6f67732f6163636573732e6c6f672e33312e677a|]
+Aug 30 13:35:13 10.71.56.0 u105008242 open "/logs/access.log.28.gz" flags READ mode 0666
+Aug 30 13:35:13 10.71.56.0 u105008242 open "/logs/access.log.34.7.gz" flags READ mode 0666
+Aug 30 13:35:13 10.71.56.0 u105008242 close "/logs/access.log.34.7.gz" bytes read 956 written 0
+Aug 30 13:35:13 10.71.56.0 u105008242 [10.71.56.0|get|0|956|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e372e677a|]
+Aug 30 13:35:13 10.71.56.0 u105008242 close "/logs/access.log.28.gz" bytes read 3193 written 0
+Aug 30 13:35:13 10.71.56.0 u105008242 [10.71.56.0|get|0|3193|0|0|0|2f6c6f67732f6163636573732e6c6f672e32382e677a|]
+Aug 30 13:35:13 10.71.56.0 u105008242 open "/logs/access.log.34.5.gz" flags READ mode 0666
+Aug 30 13:35:13 10.71.56.0 u105008242 open "/logs/access.log.34.4.gz" flags READ mode 0666
+Aug 30 13:35:13 10.71.56.0 u105008242 close "/logs/access.log.34.5.gz" bytes read 835 written 0
+Aug 30 13:35:13 10.71.56.0 u105008242 [10.71.56.0|get|0|835|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e352e677a|]
+Aug 30 13:35:13 10.71.56.0 u105008242 close "/logs/access.log.34.4.gz" bytes read 845 written 0
+Aug 30 13:35:13 10.71.56.0 u105008242 [10.71.56.0|get|0|845|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e342e677a|]
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/access.log.34.2.gz" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/access.log.34.6.gz" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 close "/logs/access.log.34.2.gz" bytes read 954 written 0
+Aug 30 13:35:14 10.71.56.0 u105008242 close "/logs/access.log.34.6.gz" bytes read 940 written 0
+Aug 30 13:35:14 10.71.56.0 u105008242 [10.71.56.0|get|0|940|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e362e677a|]
+Aug 30 13:35:14 10.71.56.0 u105008242 [10.71.56.0|get|0|954|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e322e677a|]
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/access.log.34.1.gz" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/access.log.34.3.gz" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 close "/logs/access.log.34.1.gz" bytes read 639 written 0
+Aug 30 13:35:14 10.71.56.0 u105008242 [10.71.56.0|get|0|639|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e312e677a|]
+Aug 30 13:35:14 10.71.56.0 u105008242 close "/logs/access.log.34.3.gz" bytes read 959 written 0
+Aug 30 13:35:14 10.71.56.0 u105008242 [10.71.56.0|get|0|959|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e332e677a|]
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/access.log.32.gz" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/sftp.log.33.gz" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 close "/logs/sftp.log.33.gz" bytes read 783 written 0
+Aug 30 13:35:14 10.71.56.0 u105008242 close "/logs/access.log.32.gz" bytes read 3356 written 0
+Aug 30 13:35:14 10.71.56.0 u105008242 [10.71.56.0|get|0|783|0|0|0|2f6c6f67732f736674702e6c6f672e33332e677a|]
+Aug 30 13:35:14 10.71.56.0 u105008242 [10.71.56.0|get|0|3356|0|0|0|2f6c6f67732f6163636573732e6c6f672e33322e677a|]
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/access.log.30.gz" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/last_traffic" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 close "/logs/last_traffic" bytes read 0 written 0
+Aug 30 13:35:14 10.71.56.0 u105008242 [10.71.56.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Aug 30 13:35:14 10.71.56.0 u105008242 close "/logs/access.log.30.gz" bytes read 3237 written 0
+Aug 30 13:35:14 10.71.56.0 u105008242 [10.71.56.0|get|0|3237|0|0|0|2f6c6f67732f6163636573732e6c6f672e33302e677a|]
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/traffic.db" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/info.py" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 close "/logs/traffic.db" bytes read 12288 written 0
+Aug 30 13:35:14 10.71.56.0 u105008242 [10.71.56.0|get|0|12288|0|0|0|2f6c6f67732f747261666669632e6462|]
+Aug 30 13:35:14 10.71.56.0 u105008242 close "/logs/info.py" bytes read 6384 written 0
+Aug 30 13:35:14 10.71.56.0 u105008242 [10.71.56.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/info.php5" flags READ mode 0666
+Aug 30 13:35:14 10.71.56.0 u105008242 open "/logs/info.pl" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 close "/logs/info.php5" bytes read 21 written 0
+Aug 30 13:35:15 10.71.56.0 u105008242 [10.71.56.0|get|1|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Aug 30 13:35:15 10.71.56.0 u105008242 close "/logs/info.pl" bytes read 4176 written 0
+Aug 30 13:35:15 10.71.56.0 u105008242 [10.71.56.0|get|1|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/logs/.htaccess" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/logs/traffic.html/08.html" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 close "/logs/.htaccess" bytes read 267 written 0
+Aug 30 13:35:15 10.71.56.0 u105008242 [10.71.56.0|get|0|267|0|0|0|2f6c6f67732f2e6874616363657373|]
+Aug 30 13:35:15 10.71.56.0 u105008242 close "/logs/traffic.html/08.html" bytes read 10932 written 0
+Aug 30 13:35:15 10.71.56.0 u105008242 [10.71.56.0|get|0|10932|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 sent status Permission denied
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/logs/traffic.html/07.html" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 sent status Permission denied
+Aug 30 13:35:15 10.71.56.0 u105008242 close "/logs/traffic.html/07.html" bytes read 11622 written 0
+Aug 30 13:35:15 10.71.56.0 u105008242 [10.71.56.0|get|0|11622|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 sent status Permission denied
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/logs/traffic.html/06.html" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/logs/traffic.html/index.html" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 close "/logs/traffic.html/06.html" bytes read 8204 written 0
+Aug 30 13:35:15 10.71.56.0 u105008242 [10.71.56.0|get|0|8204|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 close "/logs/traffic.html/index.html" bytes read 3755 written 0
+Aug 30 13:35:15 10.71.56.0 u105008242 [10.71.56.0|get|0|3755|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Aug 30 13:35:15 10.71.56.0 u105008242 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Aug 30 13:35:15 10.71.56.0 u105008242 [10.71.56.0|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/logs/access.log.35.1" flags READ mode 0666
+Aug 30 13:35:15 10.71.56.0 u105008242 open "/homepage/authorize.html" flags READ mode 0666
+Aug 30 13:35:16 10.71.56.0 u105008242 close "/logs/access.log.35.1" bytes read 4106 written 0
+Aug 30 13:35:16 10.71.56.0 u105008242 [10.71.56.0|get|1|4106|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e31|]
+Aug 30 13:35:16 10.71.56.0 u105008242 close "/homepage/authorize.html" bytes read 0 written 0
+Aug 30 13:35:16 10.71.56.0 u105008242 [10.71.56.0|get|1|0|0|0|0|2f686f6d65706167652f617574686f72697a652e68746d6c|]
+Aug 30 13:35:16 10.71.56.0 u105008242 open "/homepage/style.css" flags READ mode 0666
+Aug 30 13:35:16 10.71.56.0 u105008242 open "/homepage/.htaccess" flags READ mode 0666
+Aug 30 13:35:16 10.71.56.0 u105008242 close "/homepage/style.css" bytes read 345 written 0
+Aug 30 13:35:16 10.71.56.0 u105008242 close "/homepage/.htaccess" bytes read 99 written 0
+Aug 30 13:35:16 10.71.56.0 u105008242 [10.71.56.0|get|0|345|0|0|0|2f686f6d65706167652f7374796c652e637373|]
+Aug 30 13:35:16 10.71.56.0 u105008242 [10.71.56.0|get|0|99|0|0|0|2f686f6d65706167652f2e6874616363657373|]
+Aug 30 13:35:16 10.71.56.0 u105008242 open "/homepage/index.html" flags READ mode 0666
+Aug 30 13:35:16 10.71.56.0 u105008242 open "/homepage/img/vue-js.svg" flags READ mode 0666
+Aug 30 13:35:16 10.71.56.0 u105008242 close "/homepage/index.html" bytes read 10861 written 0
+Aug 30 13:35:16 10.71.56.0 u105008242 [10.71.56.0|get|0|10861|0|0|0|2f686f6d65706167652f696e6465782e68746d6c|]
+Aug 30 13:35:16 10.71.56.0 u105008242 close "/homepage/img/vue-js.svg" bytes read 3820 written 0
+Aug 30 13:35:16 10.71.56.0 u105008242 [10.71.56.0|get|0|3820|0|0|0|2f686f6d65706167652f696d672f7675652d6a732e737667|]
+Aug 30 13:35:16 10.71.56.0 u105008242 open "/homepage/img/mccdama.svg" flags READ mode 0666
+Aug 30 13:35:16 10.71.56.0 u105008242 open "/homepage/img/mccdama1.svg" flags READ mode 0666
+Aug 30 13:35:16 10.71.56.0 u105008242 close "/homepage/img/mccdama1.svg" bytes read 13982 written 0
+Aug 30 13:35:16 10.71.56.0 u105008242 [10.71.56.0|get|0|13982|0|0|0|2f686f6d65706167652f696d672f6d636364616d61312e737667|]
+Aug 30 13:35:16 10.71.56.0 u105008242 close "/homepage/img/mccdama.svg" bytes read 200167 written 0
+Aug 30 13:35:16 10.71.56.0 u105008242 [10.71.56.0|get|0|200167|0|0|0|2f686f6d65706167652f696d672f6d636364616d612e737667|]
+Aug 30 13:35:16 10.71.56.0 u105008242 open "/homepage/img/htmlcssjs.svg" flags READ mode 0666
+Aug 30 13:35:16 10.71.56.0 u105008242 open "/homepage/img/flock.svg" flags READ mode 0666
+Aug 30 13:35:16 10.71.56.0 u105008242 close "/homepage/img/flock.svg" bytes read 12514 written 0
+Aug 30 13:35:16 10.71.56.0 u105008242 [10.71.56.0|get|0|12514|0|0|0|2f686f6d65706167652f696d672f666c6f636b2e737667|]
+Aug 30 13:35:16 10.71.56.0 u105008242 close "/homepage/img/htmlcssjs.svg" bytes read 259173 written 0
+Aug 30 13:35:16 10.71.56.0 u105008242 [10.71.56.0|get|0|259173|0|0|0|2f686f6d65706167652f696d672f68746d6c6373736a732e737667|]
+Aug 30 13:35:16 10.71.56.0 u105008242 open "/homepage/img/favicon.ico" flags READ mode 0666
+Aug 30 13:35:17 10.71.56.0 u105008242 close "/homepage/img/favicon.ico" bytes read 58634 written 0
+Aug 30 13:35:17 10.71.56.0 u105008242 [10.71.56.0|get|1|58634|0|0|0|2f686f6d65706167652f696d672f66617669636f6e2e69636f|]
+Aug 30 13:36:16 10.71.56.0 u105008242 session closed for local user u105008242 from [10.71.56.0]
+Aug 30 13:36:16 10.71.56.0 u105008242 Connection closed by 10.71.56.0 port 17678
+Aug 30 13:36:17 10.71.56.0 u105008242 session closed for local user u105008242 from [10.71.56.0]
+Aug 30 13:36:17 10.71.56.0 u105008242 Connection closed by 10.71.56.0 port 17692
+Aug 30 13:37:10 10.71.56.0 u105008242 sent status No such file
+Aug 30 13:37:10 10.71.56.0 u105008242 Connection from 10.71.56.0 port 55572 on 82.165.88.58 port 22
+Aug 30 13:37:10 10.71.56.0 u105008242 Accepted password for u105008242 from 10.71.56.0 port 55572 ssh2
+Aug 30 13:37:10 10.71.56.0 u105008242 Connection from 10.71.56.0 port 55570 on 82.165.88.58 port 22
+Aug 30 13:37:10 10.71.56.0 u105008242 Accepted password for u105008242 from 10.71.56.0 port 55570 ssh2
+Aug 30 13:37:10 10.71.56.0 u105008242 Starting session: subsystem 'sftp' for u105008242 from 10.71.56.0 port 55572 id 0
+Aug 30 13:37:10 10.71.56.0 u105008242 Starting session: subsystem 'sftp' for u105008242 from 10.71.56.0 port 55570 id 0
+Aug 30 13:37:10 10.71.56.0 u105008242 session opened for local user u105008242 from [10.71.56.0]
+Aug 30 13:37:10 10.71.56.0 u105008242 session opened for local user u105008242 from [10.71.56.0]
+Aug 30 13:37:15 10.71.56.0 u105008242 open "/logs/access.log.29.gz" flags READ mode 0666
+Aug 30 13:37:15 10.71.56.0 u105008242 close "/logs/access.log.29.gz" bytes read 3468 written 0
+Aug 30 13:37:15 10.71.56.0 u105008242 [10.71.56.0|get|0|3468|0|0|0|2f6c6f67732f6163636573732e6c6f672e32392e677a|]
+Aug 30 13:37:16 10.71.56.0 u105008242 open "/logs/sftp.log" flags READ mode 0666
+Aug 30 13:37:16 10.71.56.0 u105008242 close "/logs/sftp.log" bytes read 15035 written 0
+Aug 30 13:37:16 10.71.56.0 u105008242 [10.71.56.0|get|0|15035|0|0|0|2f6c6f67732f736674702e6c6f67|]
+Aug 30 13:37:16 10.71.56.0 u105008242 open "/logs/access.log.35.1" flags READ mode 0666
+Aug 30 13:37:16 10.71.56.0 u105008242 close "/logs/access.log.35.1" bytes read 4106 written 0
+Aug 30 13:37:16 10.71.56.0 u105008242 [10.71.56.0|get|0|4106|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e31|]
+Aug 30 13:37:16 10.71.56.0 u105008242 open "/logs/access.log.33.gz" flags READ mode 0666
+Aug 30 13:37:17 10.71.56.0 u105008242 close "/logs/access.log.33.gz" bytes read 3182 written 0
+Aug 30 13:37:17 10.71.56.0 u105008242 [10.71.56.0|get|1|3182|0|0|0|2f6c6f67732f6163636573732e6c6f672e33332e677a|]
+Aug 30 13:37:17 10.71.56.0 u105008242 open "/logs/access.log.27.gz" flags READ mode 0666
+Aug 30 13:37:17 10.71.56.0 u105008242 close "/logs/access.log.27.gz" bytes read 3822 written 0
+Aug 30 13:37:17 10.71.56.0 u105008242 [10.71.56.0|get|0|3822|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e677a|]
+Aug 30 13:37:17 10.71.56.0 u105008242 open "/logs/access.log.31.gz" flags READ mode 0666
+Aug 30 13:37:17 10.71.56.0 u105008242 close "/logs/access.log.31.gz" bytes read 2999 written 0
+Aug 30 13:37:17 10.71.56.0 u105008242 [10.71.56.0|get|0|2999|0|0|0|2f6c6f67732f6163636573732e6c6f672e33312e677a|]
+Aug 30 13:37:17 10.71.56.0 u105008242 open "/logs/access.log.28.gz" flags READ mode 0666
+Aug 30 13:37:17 10.71.56.0 u105008242 close "/logs/access.log.28.gz" bytes read 3193 written 0
+Aug 30 13:37:17 10.71.56.0 u105008242 [10.71.56.0|get|0|3193|0|0|0|2f6c6f67732f6163636573732e6c6f672e32382e677a|]
+Aug 30 13:37:17 10.71.56.0 u105008242 open "/logs/access.log.34.7.gz" flags READ mode 0666
+Aug 30 13:37:17 10.71.56.0 u105008242 close "/logs/access.log.34.7.gz" bytes read 956 written 0
+Aug 30 13:37:17 10.71.56.0 u105008242 [10.71.56.0|get|0|956|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e372e677a|]
+Aug 30 13:37:18 10.71.56.0 u105008242 open "/logs/access.log.34.5.gz" flags READ mode 0666
+Aug 30 13:37:18 10.71.56.0 u105008242 close "/logs/access.log.34.5.gz" bytes read 835 written 0
+Aug 30 13:37:18 10.71.56.0 u105008242 [10.71.56.0|get|0|835|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e352e677a|]
+Aug 30 13:37:18 10.71.56.0 u105008242 open "/logs/access.log.34.4.gz" flags READ mode 0666
+Aug 30 13:37:18 10.71.56.0 u105008242 close "/logs/access.log.34.4.gz" bytes read 845 written 0
+Aug 30 13:37:18 10.71.56.0 u105008242 [10.71.56.0|get|0|845|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e342e677a|]
+Aug 30 13:37:18 10.71.56.0 u105008242 open "/logs/access.log.34.2.gz" flags READ mode 0666
+Aug 30 13:37:18 10.71.56.0 u105008242 close "/logs/access.log.34.2.gz" bytes read 954 written 0
+Aug 30 13:37:18 10.71.56.0 u105008242 [10.71.56.0|get|0|954|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e322e677a|]
+Aug 30 13:37:18 10.71.56.0 u105008242 open "/logs/access.log.34.6.gz" flags READ mode 0666
+Aug 30 13:37:18 10.71.56.0 u105008242 close "/logs/access.log.34.6.gz" bytes read 940 written 0
+Aug 30 13:37:18 10.71.56.0 u105008242 [10.71.56.0|get|0|940|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e362e677a|]
+Aug 30 13:37:18 10.71.56.0 u105008242 open "/logs/access.log.34.3.gz" flags READ mode 0666
+Aug 30 13:37:18 10.71.56.0 u105008242 close "/logs/access.log.34.3.gz" bytes read 959 written 0
+Aug 30 13:37:18 10.71.56.0 u105008242 [10.71.56.0|get|0|959|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e332e677a|]
+Aug 30 13:37:18 10.71.56.0 u105008242 open "/logs/access.log.34.1.gz" flags READ mode 0666
+Aug 30 13:37:18 10.71.56.0 u105008242 close "/logs/access.log.34.1.gz" bytes read 639 written 0
+Aug 30 13:37:18 10.71.56.0 u105008242 [10.71.56.0|get|0|639|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e312e677a|]
+Aug 30 13:37:19 10.71.56.0 u105008242 open "/logs/access.log.32.gz" flags READ mode 0666
+Aug 30 13:37:19 10.71.56.0 u105008242 close "/logs/access.log.32.gz" bytes read 3356 written 0
+Aug 30 13:37:19 10.71.56.0 u105008242 [10.71.56.0|get|0|3356|0|0|0|2f6c6f67732f6163636573732e6c6f672e33322e677a|]
+Aug 30 13:37:19 10.71.56.0 u105008242 open "/logs/sftp.log.33.gz" flags READ mode 0666
+Aug 30 13:37:19 10.71.56.0 u105008242 close "/logs/sftp.log.33.gz" bytes read 783 written 0
+Aug 30 13:37:19 10.71.56.0 u105008242 [10.71.56.0|get|0|783|0|0|0|2f6c6f67732f736674702e6c6f672e33332e677a|]
+Aug 30 13:37:19 10.71.56.0 u105008242 open "/logs/access.log.30.gz" flags READ mode 0666
+Aug 30 13:37:19 10.71.56.0 u105008242 close "/logs/access.log.30.gz" bytes read 3237 written 0
+Aug 30 13:37:19 10.71.56.0 u105008242 [10.71.56.0|get|0|3237|0|0|0|2f6c6f67732f6163636573732e6c6f672e33302e677a|]
+Aug 30 13:37:19 10.71.56.0 u105008242 open "/logs/last_traffic" flags READ mode 0666
+Aug 30 13:37:19 10.71.56.0 u105008242 close "/logs/last_traffic" bytes read 0 written 0
+Aug 30 13:37:19 10.71.56.0 u105008242 [10.71.56.0|get|0|0|0|0|0|2f6c6f67732f6c6173745f74726166666963|]
+Aug 30 13:37:19 10.71.56.0 u105008242 open "/logs/traffic.db" flags READ mode 0666
+Aug 30 13:37:19 10.71.56.0 u105008242 close "/logs/traffic.db" bytes read 12288 written 0
+Aug 30 13:37:19 10.71.56.0 u105008242 [10.71.56.0|get|0|12288|0|0|0|2f6c6f67732f747261666669632e6462|]
+Aug 30 13:37:20 10.71.56.0 u105008242 open "/logs/info.py" flags READ mode 0666
+Aug 30 13:37:20 10.71.56.0 u105008242 close "/logs/info.py" bytes read 6384 written 0
+Aug 30 13:37:20 10.71.56.0 u105008242 [10.71.56.0|get|0|6384|0|0|0|2f6c6f67732f696e666f2e7079|]
+Aug 30 13:37:20 10.71.56.0 u105008242 open "/logs/info.php5" flags READ mode 0666
+Aug 30 13:37:20 10.71.56.0 u105008242 close "/logs/info.php5" bytes read 21 written 0
+Aug 30 13:37:20 10.71.56.0 u105008242 [10.71.56.0|get|0|21|0|0|0|2f6c6f67732f696e666f2e70687035|]
+Aug 30 13:37:20 10.71.56.0 u105008242 open "/logs/info.pl" flags READ mode 0666
+Aug 30 13:37:20 10.71.56.0 u105008242 close "/logs/info.pl" bytes read 4176 written 0
+Aug 30 13:37:20 10.71.56.0 u105008242 [10.71.56.0|get|0|4176|0|0|0|2f6c6f67732f696e666f2e706c|]
+Aug 30 13:37:20 10.71.56.0 u105008242 open "/logs/.htaccess" flags READ mode 0666
+Aug 30 13:37:20 10.71.56.0 u105008242 close "/logs/.htaccess" bytes read 267 written 0
+Aug 30 13:37:20 10.71.56.0 u105008242 [10.71.56.0|get|0|267|0|0|0|2f6c6f67732f2e6874616363657373|]
+Aug 30 13:37:20 10.71.56.0 u105008242 open "/logs/traffic.html/08.html" flags READ mode 0666
+Aug 30 13:37:20 10.71.56.0 u105008242 close "/logs/traffic.html/08.html" bytes read 10932 written 0
+Aug 30 13:37:20 10.71.56.0 u105008242 [10.71.56.0|get|0|10932|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30382e68746d6c|]
+Aug 30 13:37:21 10.71.56.0 u105008242 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Aug 30 13:37:21 10.71.56.0 u105008242 sent status Permission denied
+Aug 30 13:37:21 10.71.56.0 u105008242 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Aug 30 13:37:21 10.71.56.0 u105008242 sent status Permission denied
+Aug 30 13:37:21 10.71.56.0 u105008242 open "/logs/traffic.html/.md5sums" flags READ mode 0666
+Aug 30 13:37:21 10.71.56.0 u105008242 sent status Permission denied
+Aug 30 13:37:21 10.71.56.0 u105008242 open "/logs/traffic.html/07.html" flags READ mode 0666
+Aug 30 13:37:21 10.71.56.0 u105008242 close "/logs/traffic.html/07.html" bytes read 11622 written 0
+Aug 30 13:37:21 10.71.56.0 u105008242 [10.71.56.0|get|0|11622|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30372e68746d6c|]
+Aug 30 13:37:22 10.71.56.0 u105008242 open "/logs/traffic.html/06.html" flags READ mode 0666
+Aug 30 13:37:22 10.71.56.0 u105008242 close "/logs/traffic.html/06.html" bytes read 8204 written 0
+Aug 30 13:37:22 10.71.56.0 u105008242 [10.71.56.0|get|0|8204|0|0|0|2f6c6f67732f747261666669632e68746d6c2f30362e68746d6c|]
+Aug 30 13:37:23 10.71.56.0 u105008242 open "/logs/traffic.html/index.html" flags READ mode 0666
+Aug 30 13:37:23 10.71.56.0 u105008242 close "/logs/traffic.html/index.html" bytes read 3755 written 0
+Aug 30 13:37:23 10.71.56.0 u105008242 [10.71.56.0|get|0|3755|0|0|0|2f6c6f67732f747261666669632e68746d6c2f696e6465782e68746d6c|]
+Aug 30 13:37:23 10.71.56.0 u105008242 open "/logs/traffic.html/.htaccess" flags READ mode 0666
+Aug 30 13:37:23 10.71.56.0 u105008242 close "/logs/traffic.html/.htaccess" bytes read 23 written 0
+Aug 30 13:37:23 10.71.56.0 u105008242 [10.71.56.0|get|0|23|0|0|0|2f6c6f67732f747261666669632e68746d6c2f2e6874616363657373|]
+Aug 30 13:37:24 10.71.56.0 u105008242 open "/logs/access.log.35.1" flags READ mode 0666
+Aug 30 13:37:24 10.71.56.0 u105008242 close "/logs/access.log.35.1" bytes read 4106 written 0
+Aug 30 13:37:24 10.71.56.0 u105008242 [10.71.56.0|get|0|4106|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e31|]
+Aug 30 13:37:24 10.71.56.0 u105008242 open "/homepage/authorize.html" flags READ mode 0666
+Aug 30 13:37:24 10.71.56.0 u105008242 close "/homepage/authorize.html" bytes read 0 written 0
+Aug 30 13:37:24 10.71.56.0 u105008242 [10.71.56.0|get|0|0|0|0|0|2f686f6d65706167652f617574686f72697a652e68746d6c|]
+Aug 30 13:37:24 10.71.56.0 u105008242 open "/homepage/.htaccess" flags READ mode 0666
+Aug 30 13:37:24 10.71.56.0 u105008242 close "/homepage/.htaccess" bytes read 99 written 0
+Aug 30 13:37:24 10.71.56.0 u105008242 [10.71.56.0|get|0|99|0|0|0|2f686f6d65706167652f2e6874616363657373|]
+Aug 30 13:37:24 10.71.56.0 u105008242 open "/homepage/style.css" flags READ mode 0666
+Aug 30 13:37:24 10.71.56.0 u105008242 close "/homepage/style.css" bytes read 345 written 0
+Aug 30 13:37:24 10.71.56.0 u105008242 [10.71.56.0|get|0|345|0|0|0|2f686f6d65706167652f7374796c652e637373|]
+Aug 30 13:37:24 10.71.56.0 u105008242 open "/homepage/index.html" flags READ mode 0666
+Aug 30 13:37:24 10.71.56.0 u105008242 close "/homepage/index.html" bytes read 10861 written 0
+Aug 30 13:37:24 10.71.56.0 u105008242 [10.71.56.0|get|0|10861|0|0|0|2f686f6d65706167652f696e6465782e68746d6c|]
+Aug 30 13:37:25 10.71.56.0 u105008242 open "/homepage/img/vue-js.svg" flags READ mode 0666
+Aug 30 13:37:25 10.71.56.0 u105008242 close "/homepage/img/vue-js.svg" bytes read 3820 written 0
+Aug 30 13:37:25 10.71.56.0 u105008242 [10.71.56.0|get|0|3820|0|0|0|2f686f6d65706167652f696d672f7675652d6a732e737667|]
+Aug 30 13:37:25 10.71.56.0 u105008242 open "/homepage/img/mccdama1.svg" flags READ mode 0666
+Aug 30 13:37:25 10.71.56.0 u105008242 close "/homepage/img/mccdama1.svg" bytes read 13982 written 0
+Aug 30 13:37:25 10.71.56.0 u105008242 [10.71.56.0|get|0|13982|0|0|0|2f686f6d65706167652f696d672f6d636364616d61312e737667|]
+Aug 30 13:37:25 10.71.56.0 u105008242 open "/homepage/img/mccdama.svg" flags READ mode 0666
+Aug 30 13:37:25 10.71.56.0 u105008242 close "/homepage/img/mccdama.svg" bytes read 200167 written 0
+Aug 30 13:37:25 10.71.56.0 u105008242 [10.71.56.0|get|0|200167|0|0|0|2f686f6d65706167652f696d672f6d636364616d612e737667|]
+Aug 30 13:37:25 10.71.56.0 u105008242 open "/homepage/img/htmlcssjs.svg" flags READ mode 0666
+Aug 30 13:37:25 10.71.56.0 u105008242 close "/homepage/img/htmlcssjs.svg" bytes read 259173 written 0
+Aug 30 13:37:25 10.71.56.0 u105008242 [10.71.56.0|get|0|259173|0|0|0|2f686f6d65706167652f696d672f68746d6c6373736a732e737667|]
+Aug 30 13:37:25 10.71.56.0 u105008242 open "/homepage/img/flock.svg" flags READ mode 0666
+Aug 30 13:37:25 10.71.56.0 u105008242 close "/homepage/img/flock.svg" bytes read 12514 written 0
+Aug 30 13:37:25 10.71.56.0 u105008242 [10.71.56.0|get|0|12514|0|0|0|2f686f6d65706167652f696d672f666c6f636b2e737667|]
+Aug 30 13:37:26 10.71.56.0 u105008242 open "/homepage/img/favicon.ico" flags READ mode 0666
+Aug 30 13:37:26 10.71.56.0 u105008242 close "/homepage/img/favicon.ico" bytes read 58634 written 0
+Aug 30 13:37:26 10.71.56.0 u105008242 [10.71.56.0|get|0|58634|0|0|0|2f686f6d65706167652f696d672f66617669636f6e2e69636f|]
+Aug 30 13:38:26 10.71.56.0 u105008242 session closed for local user u105008242 from [10.71.56.0]
+Aug 30 13:38:26 10.71.56.0 u105008242 Connection closed by 10.71.56.0 port 55570
+Aug 30 13:38:26 10.71.56.0 u105008242 session closed for local user u105008242 from [10.71.56.0]
+Aug 30 13:38:26 10.71.56.0 u105008242 Connection closed by 10.71.56.0 port 55572
+Aug 30 13:42:18 10.71.56.0 u105008242 Connection from 10.71.56.0 port 63002 on 82.165.88.58 port 22
+Aug 30 13:42:18 10.71.56.0 u105008242 Accepted password for u105008242 from 10.71.56.0 port 63002 ssh2
+Aug 30 13:42:18 10.71.56.0 u105008242 Connection from 10.71.56.0 port 63028 on 82.165.88.58 port 22
+Aug 30 13:42:18 10.71.56.0 u105008242 Accepted password for u105008242 from 10.71.56.0 port 63028 ssh2
+Aug 30 13:42:18 10.71.56.0 u105008242 Starting session: subsystem 'sftp' for u105008242 from 10.71.56.0 port 63002 id 0
+Aug 30 13:42:18 10.71.56.0 u105008242 Starting session: subsystem 'sftp' for u105008242 from 10.71.56.0 port 63028 id 0
+Aug 30 13:42:18 10.71.56.0 u105008242 session opened for local user u105008242 from [10.71.56.0]
+Aug 30 13:42:18 10.71.56.0 u105008242 session opened for local user u105008242 from [10.71.56.0]
+Aug 30 13:42:19 10.71.56.0 u105008242 open "/homepage/.htaccess" flags READ mode 0666
+Aug 30 13:42:19 10.71.56.0 u105008242 open "/homepage/authorize.html" flags READ mode 0666
+Aug 30 13:42:19 10.71.56.0 u105008242 close "/homepage/authorize.html" bytes read 0 written 0
+Aug 30 13:42:19 10.71.56.0 u105008242 close "/homepage/.htaccess" bytes read 99 written 0
+Aug 30 13:42:19 10.71.56.0 u105008242 [10.71.56.0|get|0|0|0|0|0|2f686f6d65706167652f617574686f72697a652e68746d6c|]
+Aug 30 13:42:19 10.71.56.0 u105008242 [10.71.56.0|get|0|99|0|0|0|2f686f6d65706167652f2e6874616363657373|]
+Aug 30 13:42:19 10.71.56.0 u105008242 open "/homepage/style.css" flags READ mode 0666
+Aug 30 13:42:19 10.71.56.0 u105008242 open "/homepage/index.html" flags READ mode 0666
+Aug 30 13:42:19 10.71.56.0 u105008242 close "/homepage/style.css" bytes read 345 written 0
+Aug 30 13:42:19 10.71.56.0 u105008242 [10.71.56.0|get|0|345|0|0|0|2f686f6d65706167652f7374796c652e637373|]
+Aug 30 13:42:19 10.71.56.0 u105008242 close "/homepage/index.html" bytes read 10861 written 0
+Aug 30 13:42:19 10.71.56.0 u105008242 [10.71.56.0|get|0|10861|0|0|0|2f686f6d65706167652f696e6465782e68746d6c|]
+Aug 30 13:42:19 10.71.56.0 u105008242 open "/homepage/img/vue-js.svg" flags READ mode 0666
+Aug 30 13:42:19 10.71.56.0 u105008242 open "/homepage/img/mccdama1.svg" flags READ mode 0666
+Aug 30 13:42:19 10.71.56.0 u105008242 close "/homepage/img/vue-js.svg" bytes read 3820 written 0
+Aug 30 13:42:19 10.71.56.0 u105008242 [10.71.56.0|get|0|3820|0|0|0|2f686f6d65706167652f696d672f7675652d6a732e737667|]
+Aug 30 13:42:19 10.71.56.0 u105008242 close "/homepage/img/mccdama1.svg" bytes read 13982 written 0
+Aug 30 13:42:19 10.71.56.0 u105008242 [10.71.56.0|get|0|13982|0|0|0|2f686f6d65706167652f696d672f6d636364616d61312e737667|]
+Aug 30 13:42:19 10.71.56.0 u105008242 open "/homepage/img/mccdama.svg" flags READ mode 0666
+Aug 30 13:42:19 10.71.56.0 u105008242 open "/homepage/img/htmlcssjs.svg" flags READ mode 0666
+Aug 30 13:42:19 10.71.56.0 u105008242 close "/homepage/img/mccdama.svg" bytes read 200167 written 0
+Aug 30 13:42:19 10.71.56.0 u105008242 [10.71.56.0|get|0|200167|0|0|0|2f686f6d65706167652f696d672f6d636364616d612e737667|]
+Aug 30 13:42:19 10.71.56.0 u105008242 close "/homepage/img/htmlcssjs.svg" bytes read 259173 written 0
+Aug 30 13:42:19 10.71.56.0 u105008242 [10.71.56.0|get|0|259173|0|0|0|2f686f6d65706167652f696d672f68746d6c6373736a732e737667|]
+Aug 30 13:42:19 10.71.56.0 u105008242 open "/homepage/img/flock.svg" flags READ mode 0666
+Aug 30 13:42:19 10.71.56.0 u105008242 open "/homepage/img/favicon.ico" flags READ mode 0666
+Aug 30 13:42:19 10.71.56.0 u105008242 close "/homepage/img/flock.svg" bytes read 12514 written 0
+Aug 30 13:42:19 10.71.56.0 u105008242 [10.71.56.0|get|0|12514|0|0|0|2f686f6d65706167652f696d672f666c6f636b2e737667|]
+Aug 30 13:42:20 10.71.56.0 u105008242 close "/homepage/img/favicon.ico" bytes read 58634 written 0
+Aug 30 13:42:20 10.71.56.0 u105008242 [10.71.56.0|get|1|58634|0|0|0|2f686f6d65706167652f696d672f66617669636f6e2e69636f|]
+Aug 30 13:43:20 10.71.56.0 u105008242 session closed for local user u105008242 from [10.71.56.0]
+Aug 30 13:43:20 10.71.56.0 u105008242 Connection closed by 10.71.56.0 port 63002
+Aug 30 13:43:20 10.71.56.0 u105008242 session closed for local user u105008242 from [10.71.56.0]
+Aug 30 13:43:20 10.71.56.0 u105008242 Connection closed by 10.71.56.0 port 63028
+Aug 30 13:45:11 10.71.56.0 u105008242 sent status No such file
+Aug 30 13:45:11 10.71.56.0 u105008242 Connection from 10.71.56.0 port 58872 on 82.165.88.58 port 22
+Aug 30 13:45:11 10.71.56.0 u105008242 Accepted password for u105008242 from 10.71.56.0 port 58872 ssh2
+Aug 30 13:45:11 10.71.56.0 u105008242 Connection from 10.71.56.0 port 58884 on 82.165.88.58 port 22
+Aug 30 13:45:11 10.71.56.0 u105008242 Accepted password for u105008242 from 10.71.56.0 port 58884 ssh2
+Aug 30 13:45:11 10.71.56.0 u105008242 Starting session: subsystem 'sftp' for u105008242 from 10.71.56.0 port 58872 id 0
+Aug 30 13:45:11 10.71.56.0 u105008242 session opened for local user u105008242 from [10.71.56.0]
+Aug 30 13:45:11 10.71.56.0 u105008242 Starting session: subsystem 'sftp' for u105008242 from 10.71.56.0 port 58884 id 0
+Aug 30 13:45:11 10.71.56.0 u105008242 session opened for local user u105008242 from [10.71.56.0]
+Aug 30 13:45:11 10.71.56.0 u105008242 open "/logs/access.log.29.gz" flags READ mode 0666
+Aug 30 13:45:12 10.71.56.0 u105008242 open "/logs/sftp.log" flags READ mode 0666
